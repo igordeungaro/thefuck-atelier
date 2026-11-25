@@ -564,3 +564,12 @@ Project License can be found [here](LICENSE.md).
 [homebrew]:        https://brew.sh/
 
 ##### [Back to Contents](#contents)
+
+---
+
+### Créditos e fonte original
+
+Este repositório é um fork de [nvbn/thefuck](https://github.com/nvbn/thefuck), criado e mantido pelos autores originais. Todo o crédito é deles.  
+Licença: MIT License (mantida sem alterações).
+
+**Fonte original:** https://github.com/nvbn/thefuck
